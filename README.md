@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @CeratoDavide84
+- 👀 I’m interested in computer vision applications
