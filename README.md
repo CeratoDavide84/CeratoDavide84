@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @CeratoDavide84
-- 👀 I’m interested in computer vision applications
+- 👀 I am deeply passionate about technology and AI systems, with a strong interest in computer vision applications.
